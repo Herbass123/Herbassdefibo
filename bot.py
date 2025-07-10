@@ -1,7 +1,7 @@
 import telebot
 
 # CONFIGURATION (REPLACE THESE VALUES)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7704980511:AAHz4MbwofG1Bnna6ZOvkpMYbdT72YF4uBI"
 CHANNEL_USERNAME = "@YourChannel"  # e.g., "@SolanaAirdropOfficial"
 GROUP_USERNAME = "@YourGroup"      # e.g., "@SolanaCommunity"
 TWITTER_USERNAME = "@YourTwitter"  # e.g., "@SolanaAirdrops"
